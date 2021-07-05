@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+a {
+  color: #A61505;
+}
+a:hover  {
+  color: #E61B06;
+}
+h1, h2, h3 {
+  line-height: 1.3;
+}
+h2 {
+  padding-top: 50px;
+}
